@@ -27,10 +27,10 @@ Alex.pth和VGG16.pth分别是在Alex和VGG16上训练得到的权重。
 ```
 python headmap.py
 ```
-Headmap
+
 (![Alt text](https://github.com/tsfw/-/blob/master/picture1.png)
-(![Alt text](https://github.com/tsfw/-/blob/master/picture2.png)
+
 ### 结果
 |模型  | AlexNet|  VGG16|
 |--|--|--|
-|  准确率| 96.82% |97.40%|
+|  准确率 | 96.82% |97.40%|
